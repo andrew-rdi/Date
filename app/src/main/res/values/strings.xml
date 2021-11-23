@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Date</string>
+
+    <!-- MainActivity -->
+    <string name="hello_main">Вітаємо в додатку </string>
+    <string name="login">Sign in</string>
+    <string name="register">Create account</string>
+
+    <string-array name="facebook_app_id">2558187384399051</string-array>
+    <string name="facebook_login_protocol_scheme">fb2558187384399051</string>
+
+    <!-- LoginActivity -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot your password? Recover</string>
+    <string name="dont_have_account">Don\`t have account? Register</string>
+    <string name="already_have_acc">Already have account? Log in</string>
+
+</resources>
